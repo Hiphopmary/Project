@@ -1,0 +1,37 @@
+{
+  "data1":
+  [
+    {
+      "username": "rahulshettyacademy", "password": "learning","label": "Blackberry","country":"india",
+      "name":"shalini","email": "shalini@gmail.com","pwd": "shalini@1213","date": "05/22/2001"
+    }
+    ,
+    {
+      "username": "rahulshettyacademy", "password": "learning","label": "Samsung Note 8","country":"india",
+      "name":"qwerty","email": "qwerty@gmail.com","pwd": "qwerty@1213","date": "05/01/2001"
+    }
+    ,
+    {
+      "username": "rahulshettyacademy", "password": "learning","label": "Nokia Edge","country":"india",
+      "name":"poi","email": "poi@gmail.com","pwd": "poi@1213","date": "05/22/2022"
+    },
+    {
+      "username": "rahulshettyacademy", "password": "learning","label": "iphone X","country":"india",
+      "name":"wqoi","email": "poi3@gmail.com","pwd": "poi@1213","date": "05/22/2022"
+    }
+  ]
+  ,
+  "data2" :
+  [
+    {
+      "value": "ber","invalid_promo_name": "rahulshettyacadem","valid_promo_name": "rahulshettyacademy"
+    }
+  ,
+    {
+      "value": "cau","invalid_promo_name": "rahulyacadem","valid_promo_name": "rahulshettyacademy"
+    }
+  ,{
+      "value": "b","invalid_promo_name": "rahulyacadem","valid_promo_name": "rahulshettyacademy"
+    }
+  ]
+}
